@@ -6,7 +6,7 @@ const items = [
     {
         id: 1,
         title: "Connectivo",
-        img: "public/connectivo.png",
+        img: "/connectivo.png",
         desc:"Connectivo is a React-based frontend web application that allows users to register, log in, create posts, and view active users. It features a smooth and responsive UI, providing an engaging social experience. Built with modern web technologies, it ensures seamless performance and usability. This project helped me enhance my skills in React, authentication, state management, and UI/UX design."
     },
     {
