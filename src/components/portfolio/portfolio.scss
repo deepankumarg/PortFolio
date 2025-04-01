@@ -12,8 +12,8 @@
         font-size: 30px;
 
         @include Mobile{
-          padding-top: calc(100vh - 100px);
-          font-size: 24px;
+          padding-top: calc(100vh - 80px);
+          font-size: 20px;
         }
 
         .progressbar{
